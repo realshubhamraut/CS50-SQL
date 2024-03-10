@@ -1,1 +1,1 @@
-https://cs50.harvard.edu/sql/2024/psets/3/
+https://cs50.harvard.edu/sql/2023/psets/3/
